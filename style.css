@@ -2,7 +2,10 @@ h1 {
     text-aling:center;
     background:rgb(10, 151, 97);
 }
-#img {
-    width: 100px;
-    height: 100px;
+h1 {
+    font-size: 35px;
+}
+#img_inicio {
+    width:50%;
+    height: 30px;
 }
